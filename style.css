@@ -1,0 +1,12 @@
+button{
+    font-size:25px;
+    color:yellow;
+}
+
+.button{
+	color: green;
+}
+
+#button{
+	color: olive !important;
+}
